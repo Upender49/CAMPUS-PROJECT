@@ -1,2 +1,1 @@
-read me file is editid
-this is from vs code
+https://upender49.github.io/CAMPUS-PROJECT/
